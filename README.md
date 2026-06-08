@@ -3,6 +3,8 @@ Arduino-based UAV motor thrust test stand with real-time telemetry visualization
 
 The system collects telemetry from a load cell, voltage sensor and current sensor, sends the data over a serial connection and visualizes it in a Python desktop application. The application displays live plots and can save test sessions into log files for later analysis.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f16c5061-9f50-45aa-b677-05f6fc870f89" />
+
 ## Features
 
 - Real-time thrust measurement
